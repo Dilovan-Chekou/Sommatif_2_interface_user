@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8LZFXrdjAP4hjlx2/vz5P2sLHjKW9tDUC/WQYrrb0CB7uXzFQwulROw/j/YO+Ru+pAeY/WgfyepcvDrTb9RnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2310302\\OneDrive - Cégep de Chicoutimi\\Bureau\\Sommatif_2_interface_user\\sommatif_2\\sommatif_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2310302\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
