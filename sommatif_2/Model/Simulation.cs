@@ -7,7 +7,7 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculatriceAchatVoiture.Model
+namespace sommatif_2.Model
 {
     public class Simulation : ObservableObject
     {

@@ -10,9 +10,21 @@
     <Compile Update="View\FenetrePrincipal.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\GestionClients.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\GestionSimulations.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="View\FenetrePrincipal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\GestionClients.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\GestionSimulations.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

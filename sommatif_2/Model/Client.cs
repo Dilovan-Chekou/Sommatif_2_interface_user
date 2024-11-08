@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculatriceAchatVoiture.Model
+namespace sommatif_2.Model
 {
     public class Client
     {
